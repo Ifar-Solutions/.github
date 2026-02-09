@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.ifarsolutions.com">
-    <img src="../logo.svg" alt="Ifar Solutions logo" width="140" />
+    <img src="../ifar-logo.svg" alt="Ifar Solutions logo" width="140" />
   </a>
 </p>
 
