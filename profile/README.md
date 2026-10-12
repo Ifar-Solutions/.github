@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../dark-logo.svg">
-    <source media="(prefers-color-scheme: light)" srcset="../light-logo.svg">
-    <img src="../dark-logo.svg" alt="Ifar Solutions Ltd" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ifar-Solutions/art/main/dark-logo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ifar-Solutions/art/main/light-logo.svg">
+    <img src="https://raw.githubusercontent.com/Ifar-Solutions/art/main/dark-logo.svg" alt="Ifar Solutions Ltd" width="200">
   </picture>
 </p>
 
